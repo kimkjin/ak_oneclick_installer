@@ -84,7 +84,7 @@ VERSIONNAME="NONE"
 # --------------------------------------------------
 if [ "$AKVERSION" = 1 ] ; then
 	cd "/root/hxsy"
-	wget --no-check-certificate "https://raw.githubusercontent.com/haruka98/ak_oneclick_installer/master/yokohiro_003_005_01_04" -O "yokohiro_003_005_01_04"
+	wget --no-check-certificate "https://raw.githubusercontent.com/kimkjin/ak_oneclick_installer/master/yokohiro_003_005_01_04" -O "yokohiro_003_005_01_04"
 	chmod 777 yokohiro_003_005_01_04
 	. "/root/hxsy/yokohiro_003_005_01_04"
 	
