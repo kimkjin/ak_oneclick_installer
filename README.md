@@ -6,5 +6,5 @@ This script allows you to create an Aura Kingdom server based on the releases fr
 ## How to use?
 The script is intended for use on debian 9 (10 is not yet supported). The command to download and run this script is the following:
 ```shell
-wget --no-check-certificate -nv "https://raw.githubusercontent.com/haruka98/ak_oneclick_installer/master/akinstall.sh" -O "akinstall.sh"; chmod 777 "akinstall.sh"; ./akinstall.sh
+wget --no-check-certificate -nv "https://github.com/kimkjin/ak_oneclick_installer/blob/master/akinstall.sh" -O "akinstall.sh"; chmod 777 "akinstall.sh"; ./akinstall.sh
 ```
